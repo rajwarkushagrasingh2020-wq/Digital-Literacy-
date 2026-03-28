@@ -11,7 +11,6 @@
 | **Registration No.** | 25BEC10052 |
 | **Branch** | B.Tech – ECE |
 | **Course** | CSE0001 – Digital Literacy |
-| **Credits** | 1 Credit (Pass/Fail) |
 | **Institution** | VIT Bhopal University |
 | **Academic Year** | 2025–26 |
 
